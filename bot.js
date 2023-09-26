@@ -6,7 +6,7 @@ const opts = {
     options: { debug: true },
     identity: {
         username: 'knifechatbot',
-        password: 'oauth:1qep0czu0cvhufgzpkl8nkuv4txr6l'
+        password: '<change this to load locally>'
     },
     channels: [
         'knifesurge'
